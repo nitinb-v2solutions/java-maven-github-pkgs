@@ -8,7 +8,7 @@
   <packaging>jar</packaging>
 
   <name>java-maven-github-pkgs</name>
-  <url>http://maven.apache.org</url>
+  <url>https://maven.pkg.github.com/nitinb-v2solutions/java-maven-github-pkgs</url>
 
   <properties>
     <maven.compiler.source>1.8</maven.compiler.source>
